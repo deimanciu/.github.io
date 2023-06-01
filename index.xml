@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 lab</title>
+    
+    
+    
+    <link>http://deimanciu.github.io/</link>
+    <description>Recent content on 3 lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Jun 2023 00:09:30 +0300</lastBuildDate>
+    
+	<atom:link href="http://deimanciu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Naujas puslapis</title>
+      <link>http://deimanciu.github.io/posts/naujas/</link>
+      <pubDate>Fri, 02 Jun 2023 00:09:30 +0300</pubDate>
+      
+      <guid>http://deimanciu.github.io/posts/naujas/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Darbo tikslas: Susipažinti su statinio puslapio generavimo programa Hugo ir versijų kontrolės įrankiu git. Išmokti susikurti nuosavą puslapį ir jį aptarnauti su git. Darbo su git komandinėje eilutėje pagrindai.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
